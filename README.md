@@ -1,4 +1,4 @@
-# book-on-tape
+# books-on-tape
 Books On Tape: Author Classification
 
 # Books On Tape: Author Classification
